@@ -1,6 +1,6 @@
 (() => {
   'use strict';
-  const config = window.MAX_PACK || {};
+  const config = window.AVOS_PACK || {};
   const toast = document.getElementById('toast');
   let toastTimer;
 
